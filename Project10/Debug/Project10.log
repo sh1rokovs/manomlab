@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\okaythisissid\source\repos\project4\project10\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\okaythisissid\source\repos\project4\project10\main.cpp(7): warning C4101: t: неиспользованная локальная переменная
+  Project10.vcxproj -> C:\Users\OkayThisIsSid\source\repos\Project4\Debug\main project.exe
