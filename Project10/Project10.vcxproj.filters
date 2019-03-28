@@ -20,10 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="funct.h">
-      <Filter>Файлы ресурсов</Filter>
+    <ClInclude Include="THeadList.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Tlist.h">
+    <ClInclude Include="TPolinom.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
